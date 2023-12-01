@@ -23,10 +23,10 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
-"@excalidraw/excalidraw@^0.15.2":
-  version "0.15.2"
-  resolved "https://registry.yarnpkg.com/@excalidraw/excalidraw/-/excalidraw-0.15.2.tgz#7dba4f6e10c52015a007efb75a9fc1afe598574c"
-  integrity sha512-rTI02kgWSTXiUdIkBxt9u/581F3eXcqQgJdIxmz54TFtG3ughoxO5fr4t7Fr2LZIturBPqfocQHGKZ0t2KLKgw==
+"@excalidraw/excalidraw@^0.17.1":
+  version "0.17.1"
+  resolved "https://registry.yarnpkg.com/@excalidraw/excalidraw/-/excalidraw-0.17.1.tgz#7468bc5c81f56c8e37bfe8ac3fa24b1ec7d67cd2"
+  integrity sha512-W35xl8+bmhBqJ4U/6qepKdJJSIYnbwCxJOZbFrBKGJ85HmBrsjszSTJ1YFdKM2Ba5BLdMmpgu8gMC1TnvRzaoA==
 
 "@jridgewell/gen-mapping@^0.3.0":
   version "0.3.3"

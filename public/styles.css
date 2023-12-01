@@ -6,8 +6,8 @@ body {
 .slides-list {
   position: absolute;
   z-index: 10;
-  top: 30px;
-  left: 10px;
+  top: 50px;
+  right: 5px;
   max-height: calc(100vh - 100px);
   width: 120px;
   background-color: var(--bg-color-island);
